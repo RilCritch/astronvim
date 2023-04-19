@@ -17,5 +17,7 @@ return {
       -- you can configure Hop the way you like here; see :h hop-config
       require('hop').setup { keys = 'etovxqpdygfblzhckisuran' }
     end,
+    -- ensure hop is running
+    lazy = false,
   },
 }
