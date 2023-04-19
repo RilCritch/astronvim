@@ -10,5 +10,6 @@ return {
   { import = "astrocommunity.markdown-and-latex.glow-nvim" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.bash" },
+  -- { import = "astrocommunity.pack.bash" },
+  { import = "astrocommunity.scrolling.mini-animate" },
 }
