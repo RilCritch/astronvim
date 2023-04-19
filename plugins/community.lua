@@ -12,4 +12,5 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.scrolling.mini-animate" },
+  { import = "astrocommunity.syntax.vim-easy-align" },
 }
