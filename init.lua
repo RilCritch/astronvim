@@ -18,7 +18,11 @@ return {
   },
   -- Set colorscheme to use
   -- colorscheme = "astrodark",
-  colorscheme = "catppuccin",
+  -- colorscheme = "catppuccin",
+  -- colorscheme = "everforest",
+  -- colorscheme = "onigiri",
+  colorscheme = "oxocarbon",
+  -- colorscheme = "tokyonight",
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
     virtual_text = true,
