@@ -11,20 +11,20 @@ return {
   -- },
 
   {
-    'phaazon/hop.nvim',
-    branch = 'v2', -- optional but strongly recommended
+    "phaazon/hop.nvim",
+    branch = "v2", -- optional but strongly recommended
     config = function()
       -- you can configure Hop the way you like here; see :h hop-config
-      require('hop').setup { keys = 'etovxqpdygfblzhckisuran' }
+      require("hop").setup { keys = "etovxqpdygfblzhckisuran" }
     end,
     -- ensure hop is running
     lazy = false,
   },
 
   {
-    'gorbit99/codewindow.nvim',
+    "gorbit99/codewindow.nvim",
     config = function()
-      local codewindow = require('codewindow')
+      local codewindow = require "codewindow"
       codewindow.setup()
       codewindow.apply_default_keybinds()
     end,
