@@ -31,4 +31,8 @@ return {
     -- ensure codwindow is running
     lazy = false,
   },
+
+  {
+    "sainnhe/sonokai",
+  },
 }
