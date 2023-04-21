@@ -21,8 +21,9 @@ return {
   -- colorscheme = "catppuccin",
   -- colorscheme = "everforest",
   -- colorscheme = "onigiri",
-  colorscheme = "oxocarbon",
+  -- colorscheme = "oxocarbon",
   -- colorscheme = "tokyonight",
+  colorscheme = "sonokai",
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
     virtual_text = true,
